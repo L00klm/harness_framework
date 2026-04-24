@@ -5,7 +5,7 @@
 - {언어 (예: TypeScript strict mode)}
 - {스타일링 (예: Tailwind CSS)}
 
-## 아키텍처 규칙
+## 아키텍처 규칙.
 - CRITICAL: {절대 지켜야 할 규칙 1 (예: 모든 API 로직은 app/api/ 라우트 핸들러에서만 처리)}
 - CRITICAL: {절대 지켜야 할 규칙 2 (예: 클라이언트 컴포넌트에서 직접 외부 API를 호출하지 말 것)}
 - {일반 규칙 (예: 컴포넌트는 components/ 폴더에, 타입은 types/ 폴더에 분리)}
